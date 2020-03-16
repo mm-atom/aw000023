@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/aw000023",
-	"version": "1.0.0",
+	"version": "1.0.202003161327",
 	"description": "复制到剪切板",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
